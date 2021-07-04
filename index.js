@@ -17,10 +17,10 @@ const emotes = {
     user: '👤'
 }
 
-const supportGuildId = ''
-const supportGuildLogChannelId = ''
+const supportGuildId = '800446001378885712'
+const supportGuildLogChannelId = '833750209137606706'
 //Specify your bot token
-var Bottoken = ''
+var Bottoken = 'ODYxMjk3NzI1NjEzOTMyNTk0.YOHwAw.CdUeByxjA2dlkJ0_GIPUfgLrPEk'
 
 //Optionally load .env file
 try {
